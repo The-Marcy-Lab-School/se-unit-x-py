@@ -20,4 +20,7 @@
 1. **Reading**: _Grokking Algorithms_ Chapter 1
 2. **Tutorial**: [_Python for Data Structures, Algorithms, and Interviews!_](https://www.udemy.com/share/1013ZkBksYd1daRnQ=/) - _Section 10_ & _Section 11_
 3. **Tutorial**: (Optional) [Introduction to Algorithms](https://teamtreehouse.com/library/introduction-to-algorithms) - _Playing a Counting Game_ & _Time Complexity_
+4. **Reference**: [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 
+### Lecture Activity
+* [Algorithm Analysis Activity](https://github.com/The-Marcy-Lab-School/se-unit-11/blob/master/lesson-0-big-o/algorithm_exploration_activity.ipynb)
