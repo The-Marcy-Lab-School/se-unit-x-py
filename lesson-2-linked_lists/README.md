@@ -1,17 +1,15 @@
 # Unit 11 - Lesson 2: Linked Lists
 
 ## Key Terms
-* linked list
+* abstract data type
 * singly linked list
 * doubly linked list
 * node
-* insertion
-* deletion
-* access
 * random access
 * sequential access
 
 ## Essential Questions
+* What is an _abstract data type_?
 * What are the tradeoffs between linked lists and arrays?
 * What are the tradeoffs between singly linked lists and doubly linked lists?
 * What are the run times for insertion, deletion, and accessing from linked lists?
