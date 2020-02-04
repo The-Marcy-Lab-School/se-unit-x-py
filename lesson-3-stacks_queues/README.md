@@ -13,7 +13,7 @@
 * What are common use cases for stacks and queues in computer science?
 
 ## Learning Assignments
-* **Book:** Problem Solving with Algorithms and Data Structures Using Python - Chapter 3
+* **Book:** Problem Solving with Algorithms and Data Structures Using Python - [Chapter 3](https://marcy-lab-school.s3.us-east-2.amazonaws.com/DS+and+Algos+Ch.+3.pdf)
 * **Tutorial:** Python for Data Structures, Algorithms, and Interview! - [Section 13: Stacks, Queues, and Deques](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn/lecture/3179604#overview)
 
 ## Problem Set
